@@ -50,4 +50,27 @@ Luxury-Motorsports/
 ├── intro.html 
 ├── models.html (The Models page displays a grid of featured luxury sports cars, allowing users to visually explore the different models available. Each car is presented using a modern card layout, which includes a bold image and the name of the model.)
 
+Luxury-Motorsports/
+│
+├── CSS/
+│ └── style.css
+│
+├── Images/
+│ └── (All image files used in the website)
+│
+├── about.html
+├── car1.html
+├── car2.html
+├── car3.html
+├── car4.html
+├── car5.html
+├── car6.html
+├── car7.html
+├── car8.html
+├── contact.html
+├── customize.html
+├── index.html
+├── intro.html
+├── models.html
+
 # Static-Web-Development
